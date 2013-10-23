@@ -6,3 +6,7 @@
 .showgrid {
 	background: url("../img/12-col-grid.gif") !important;
 }
+
+section {
+	background: red;
+}
