@@ -25,12 +25,29 @@ float: left;
 }
 
 a {
-  background: red;
   color: #fff;
 display: block;
   text-transform: uppercase;
   text-decoration: none;
 }
 
+#google a:hover {
+  background: url(../img/chrome.png) no-repeat left center;
+}
 
+#mozilla a:hover {
+  background: url(../img/firefox.png) no-repeat left center;
+}
+
+#apple a:hover {
+  background: url(../img/safari.png) no-repeat left center;
+}
+
+#microsoft a:hover {
+  background: url(../img/ie.png) no-repeat left center;
+}
+
+#opera a:hover {
+  background: url(../img/opera.png) no-repeat left center;
+}
 
