@@ -1,13 +1,10 @@
 /* Stylesheet */
 body {
 	font-family: 'Volkhov', serif;	
+	background: url(../img/bg.png);
 }
 
-/* Help Class to Show Grid */
+/* Help Class to Show Grid 
 .showgrid {
 	background: url("../img/12-col-grid.gif") !important;
-}
-
-section {
-	background: red;
-}
+}*/
